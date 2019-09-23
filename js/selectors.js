@@ -1,3 +1,4 @@
 function paragraphSelector(){
-  var p = $('p')
+  var p = $('p');
+  return p;
 }
